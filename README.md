@@ -1,5 +1,3 @@
-# UI Exercice
-
 # UI Exercice <a href="https://archer01.itch.io/ui-exercice">(Play game)</a>&nbsp;
 
 <div align="center"> 
